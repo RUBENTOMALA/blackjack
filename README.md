@@ -1,3 +1,1 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
-
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+Esta aplicación es una implementación básica de un juego tipo blackjack desarrollado con React Native. Utiliza una API pública de mazos de cartas para simular partidas en tiempo real, donde el objetivo es alcanzar 21 puntos sin pasarse.
