@@ -1,0 +1,19 @@
+{
+  "name": "@blackjack/core",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch run index.ts"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.1",
+    "drizzle-orm": "^0.44.4",
+    "zod": "^4.0.15",
+    "pg": "^8.15.6",
+    "ulid": "^3.0.0"
+
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.4"
+  }
+}
